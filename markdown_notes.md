@@ -104,3 +104,79 @@ class Sprite:
 ### Text Fonts
 
 ### Custom Classes
+
+![](diagram.svg)
+
+---
+## Lists
+
+``` markdown
+- unordered item 1
+- unordered item 2
+- unordered item 3
+
+1. ordered item 1
+2. ordered item 2
+3. ordered item 3
+```
+
+will be displayed like this:
+
+- unordered item 1
+- unordered item 2
+- unordered item 3
+
+1. ordered item 1
+2. ordered item 2
+3. ordered item 3
+
+---
+## Links
+
+``` markdown
+go back to [home](index.md)
+```
+
+will be displayed like this:
+
+go back to [home](index.md)
+
+---
+
+## Code Blocks
+
+<pre>
+``` python
+class Sprite:
+    def __init__(self):
+        self.x = 0
+        self.y = 0
+```
+</pre>
+
+will be displayed like this:
+
+``` python
+class Sprite:
+    def __init__(self):
+        self.x = 0
+        self.y = 0
+```
+
+---
+
+## HTML
+
+### Video
+
+### Image Size
+
+---
+
+## CSS
+
+### Background Color
+
+### Text Fonts
+
+### Custom Classes
