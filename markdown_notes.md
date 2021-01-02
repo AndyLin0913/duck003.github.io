@@ -85,22 +85,3 @@ class Sprite:
     def __init__(self):
         self.x = 0
         self.y = 0
-```
-
----
-
-## HTML
-
-### Video
-
-### Image Size
-
----
-
-## CSS
-
-### Background Color
-
-### Text Fonts
-
-### Custom Classes
